@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20e0022b-55a3-49f7-961a-707078af46ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/resources/drivers/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestSelenium" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestSelenium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestOmnibnk" beforeDir="false" afterPath="$PROJECT_DIR$/../TestOmnibnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestSelenium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestSelenium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestSelenium/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestSelenium/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestSelenium/src/test/java/test_ebay/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestSelenium/src/test/java/test_ebay/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestSelenium/src/test/java/test_ebay/myStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestSelenium/src/test/java/test_ebay/myStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alkanza-tests-api" beforeDir="false" afterPath="$PROJECT_DIR$/../alkanza-tests-api" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UX60RfiWJKgXgjrgPLEEFJKDZW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources/drivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources/drivers" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20e0022b-55a3-49f7-961a-707078af46ae" name="Default Changelist" comment="" />
+      <created>1575490369432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575490369432</updated>
+    </task>
+    <servers />
+  </component>
+</project>
